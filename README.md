@@ -5,7 +5,7 @@
 
 A simple app that takes user's income and expense, list them, delete it whenever needed and shows the totals.
 
-![Finance Desk](imgs\readmeimg.png)
+![Finance Desk](\imgs\readmeimg.png)
 
 # Features
 - Calculates the users incomes and expenses
