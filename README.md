@@ -14,3 +14,5 @@ A simple app that takes user's income and expense, list them, delete it whenever
 - HTML
 - CSS
 - JAVASCRIPT
+# Demo
+[Link](https://financedesk.netlify.app/)
