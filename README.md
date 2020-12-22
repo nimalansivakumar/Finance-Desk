@@ -5,6 +5,7 @@
 
 A simple app that takes user's income and expense, list them, delete it whenever needed and shows the totals.
 
+![](https://github.com/nimalansivakumar/Finance-Desk/blob/main/imgs/readmeimg.png)
 # Features
 - Calculates the users incomes and expenses
 - Makes list with amount and its source
